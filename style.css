@@ -1,0 +1,31 @@
+header {
+    background-color: #171728;
+    color: #FFFFFF;
+    display:flex;   
+}
+
+body {
+    background-color: #171728;
+    color: white;
+    font-family: sans-serif;
+}
+
+#logo {
+    width: 10%;
+}
+
+#piloto-hamilton {
+    width:5%;
+}
+
+#piloto-legenda {
+    font-size: 8px;
+}
+
+#piloto-titulo {
+    font-size: 10px;
+}
+
+.estudante-div {
+    text-align: center;
+}
